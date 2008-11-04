@@ -1,0 +1,5 @@
+SimpleCM Admin Interface Beta 0.1.1
+place the admin folder inside the plugins directory
+database.sql holds the database structure for the Admin Interface
+edit admin/settings.php for your installation
+login using Username: user; Password: pass

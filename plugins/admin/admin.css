@@ -1,0 +1,6 @@
+div#top{position:absolute;top:20px;left:0px;width:800px;height:100px;border:solid 1px black;}
+div#left{position:absolute;top:125px;left:0px;width:200px;height:700px;border:solid 1px black;}
+div#data{position:absolute;top:125px;left:205px;width:595px;height:700px;border:solid 1px black;overflow: auto;}
+div#waiver{position:absolute;top:0px;left:0px;}
+a#red{color:red;}
+a#red:visited{color:red;}
